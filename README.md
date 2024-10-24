@@ -5,6 +5,7 @@ Este es el proyecto integrador de la materia Desarrollo de Software de Ingenier�
 HTML: Para la estructura del sitio.
 CSS: Para los estilos.
 JavaScript: Para la interacción.
+
 📂 Estructura del Proyecto
 /src: Código fuente principal del proyecto.
 /integradorfrontend: Archivos del frontend (index.html, main.js, style.css, etc.).
